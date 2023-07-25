@@ -1,0 +1,120 @@
+% $ biblatex auxiliary file $
+% $ biblatex bbl format version 3.2 $
+% Do not modify the above lines!
+%
+% This is an auxiliary file used by the 'biblatex' package.
+% This file may safely be deleted. It will be recreated as
+% required.
+%
+\begingroup
+\makeatletter
+\@ifundefined{ver@biblatex.sty}
+  {\@latex@error
+     {Missing 'biblatex' package}
+     {The bibliography requires the 'biblatex' package.}
+      \aftergroup\endinput}
+  {}
+\endgroup
+
+\datalist[entry]{none/global//global/global}
+  \entry{Chaparro}{article}{}
+    \name{author}{3}{}{%
+      {{hash=CMJE}{%
+         family={Chaparro\bibnamedelima Mesa},
+         familyi={C\bibinitperiod\bibinitdelim M\bibinitperiod},
+         given={Jorge\bibnamedelima Enrique},
+         giveni={J\bibinitperiod\bibinitdelim E\bibinitperiod},
+      }}%
+      {{hash=BLN}{%
+         family={Barrera\bibnamedelima Lombana},
+         familyi={B\bibinitperiod\bibinitdelim L\bibinitperiod},
+         given={Nelson},
+         giveni={N\bibinitperiod},
+      }}%
+      {{hash=LSFA}{%
+         family={Le{\'o}n\bibnamedelima Socha},
+         familyi={L\bibinitperiod\bibinitdelim S\bibinitperiod},
+         given={Fredy\bibnamedelima Alonso},
+         giveni={F\bibinitperiod\bibinitdelim A\bibinitperiod},
+      }}%
+    }
+    \list{publisher}{1}{%
+      {SciELO Chile}%
+    }
+    \strng{namehash}{CMJEBLNLSFA1}
+    \strng{fullhash}{CMJEBLNLSFA1}
+    \field{labelnamesource}{author}
+    \field{labeltitlesource}{title}
+    \verb{doi}
+    \verb 10.4067/S0718-33052021000200245
+    \endverb
+    \field{number}{2}
+    \field{pages}{245\bibrangedash 264}
+    \field{title}{M{\'o}dulo Terminal Remoto, para la adquisici{\'o}n de datos,
+  monitoreo y control de procesos Agroindustriales-AgriculTIC}
+    \field{volume}{29}
+    \field{journaltitle}{Ingeniare. Revista chilena de ingenier{\'\i}a}
+    \field{year}{2021}
+  \endentry
+
+  \entry{Rodriguez}{article}{}
+    \name{author}{6}{}{%
+      {{hash=RLLA}{%
+         family={Rodr{\'\i}guez\bibnamedelima Larramendi},
+         familyi={R\bibinitperiod\bibinitdelim L\bibinitperiod},
+         given={Luis\bibnamedelima Alfredo},
+         giveni={L\bibinitperiod\bibinitdelim A\bibinitperiod},
+      }}%
+      {{hash=GHF}{%
+         family={Guevara\bibnamedelima Hern{\'a}ndez},
+         familyi={G\bibinitperiod\bibinitdelim H\bibinitperiod},
+         given={Francisco},
+         giveni={F\bibinitperiod},
+      }}%
+      {{hash=GCH}{%
+         family={G{\'o}mez\bibnamedelima Castro},
+         familyi={G\bibinitperiod\bibinitdelim C\bibinitperiod},
+         given={Heriberto},
+         giveni={H\bibinitperiod},
+      }}%
+      {{hash=FFM}{%
+         family={Fonseca\bibnamedelima Flores},
+         familyi={F\bibinitperiod\bibinitdelim F\bibinitperiod},
+         given={Mar{\'\i}a},
+         giveni={M\bibinitperiod},
+      }}%
+      {{hash=GCJC}{%
+         family={G{\'o}mez\bibnamedelima Casta{\~n}eda},
+         familyi={G\bibinitperiod\bibinitdelim C\bibinitperiod},
+         given={Julio\bibnamedelima Cesar},
+         giveni={J\bibinitperiod\bibinitdelim C\bibinitperiod},
+      }}%
+      {{hash=PRR}{%
+         family={Pinto\bibnamedelima Ruiz},
+         familyi={P\bibinitperiod\bibinitdelim R\bibinitperiod},
+         given={Ren{\'e}},
+         giveni={R\bibinitperiod},
+      }}%
+    }
+    \list{publisher}{1}{%
+      {Universidad Nacional de Colombia}%
+    }
+    \strng{namehash}{RLLAGHFGCH+1}
+    \strng{fullhash}{RLLAGHFGCHFFMGCJCPRR1}
+    \field{labelnamesource}{author}
+    \field{labeltitlesource}{title}
+    \verb{doi}
+    \verb 10.15446/acag.v65n3.46731
+    \endverb
+    \field{number}{3}
+    \field{pages}{248\bibrangedash 254}
+    \field{title}{Anatom{\'\i}a foliar relacionada con la ruta
+  fotosint{\'e}tica en {\'a}rboles de caf{\'e} (Coffea arabica L., var. Caturra
+  Rojo) expuestos a diferentes niveles de radiaci{\'o}n solar en la Sierra
+  Maestra, Granma, Cuba}
+    \field{volume}{65}
+    \field{journaltitle}{Acta Agron{\'o}mica}
+    \field{year}{2016}
+  \endentry
+\enddatalist
+\endinput

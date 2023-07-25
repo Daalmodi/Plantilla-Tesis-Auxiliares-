@@ -1,0 +1,18 @@
+\thispagestyle{empty}
+\renewcommand{\contentsname}{Contenido}
+\tableofcontents
+\newpage
+\thispagestyle{empty}
+{
+	\let\oldnumberline\numberline
+	\renewcommand{\numberline}{\figurename~\oldnumberline}
+	\listoffigures
+}
+\newpage
+\thispagestyle{empty}
+{
+	\let\oldnumberline\numberline
+	\renewcommand{\numberline}{\tablename~\oldnumberline}
+	\listoftables
+}
+\newpage
